@@ -19,7 +19,7 @@ Your must have Java8 installed in your device.
 
 # Follow the following simple steps to generate the copy of your work:-
 
-Step 1. Download speedUP from (https://github.com/shabi1978/speedUP)
+Step 1. Download speedUP from (https://github.com/Shabi-Anwar-Baig/speedUp)
 
 Step 2. Unzip speedUP-main.
 
